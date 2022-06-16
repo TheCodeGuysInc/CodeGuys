@@ -11,14 +11,14 @@ import {
 } from "react-router-dom";
 
 import About from "./Pages/About";
+import MatrixBackground from "./Components/MatrixBackground";
 
 function App() {
   return (
     <div className="App">
-      Hi
       <BrowserRouter>
         <div className="header-container">
-          {/* <MatrixBackground /> */}
+          <MatrixBackground />
           <div className="code-guys-text">
             <p>Code Guys Inc</p>
           </div>
