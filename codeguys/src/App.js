@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 
 import About from "./Pages/About";
+import HomePage from "./Pages/Home";
 import MatrixBackground from "./Components/MatrixBackground";
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
 
           <div className="nav-links">
             <div>
-              <Link className="link" to="/home">
+              <Link className="link" to="/CodeGuys">
                 Home
               </Link>
             </div>
@@ -44,9 +45,7 @@ function App() {
         </div>
 
         <Routes>
-          {/* <Route path="/home">
-            <HomePage />
-          </Route> */}
+          <Route path="/CodeGuys" element={<HomePage />}></Route>
           {/* <Route path="/projects">
             <Projects />
           </Route> */}
