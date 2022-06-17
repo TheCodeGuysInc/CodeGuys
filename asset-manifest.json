@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CodeGuys/static/css/main.3bca3e8d.css",
-    "main.js": "/CodeGuys/static/js/main.06e96ec6.js",
+    "main.css": "/CodeGuys/static/css/main.e2deaee1.css",
+    "main.js": "/CodeGuys/static/js/main.27482924.js",
     "static/js/787.5744fed0.chunk.js": "/CodeGuys/static/js/787.5744fed0.chunk.js",
-    "static/media/2414.jpg": "/CodeGuys/static/media/2414.53f5646f8076caf4e2ba.jpg",
+    "static/media/main.jpg": "/CodeGuys/static/media/main.ee19f99a32b77efb51a6.jpg",
     "static/media/logo.svg": "/CodeGuys/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CodeGuys/index.html",
-    "main.3bca3e8d.css.map": "/CodeGuys/static/css/main.3bca3e8d.css.map",
-    "main.06e96ec6.js.map": "/CodeGuys/static/js/main.06e96ec6.js.map",
+    "main.e2deaee1.css.map": "/CodeGuys/static/css/main.e2deaee1.css.map",
+    "main.27482924.js.map": "/CodeGuys/static/js/main.27482924.js.map",
     "787.5744fed0.chunk.js.map": "/CodeGuys/static/js/787.5744fed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bca3e8d.css",
-    "static/js/main.06e96ec6.js"
+    "static/css/main.e2deaee1.css",
+    "static/js/main.27482924.js"
   ]
 }
