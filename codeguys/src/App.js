@@ -9,6 +9,7 @@ import {
   Redirect,
   Link,
 } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 import About from "./Pages/About";
 import HomePage from "./Pages/Home";
@@ -17,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <div className="header-container">
+        {/* <div className="header-container">
           <div className="code-guys-text">
             <p>Code Guys Inc</p>
           </div>
@@ -40,7 +41,7 @@ function App() {
               </Link>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <Routes>
           <Route path="/CodeGuys" element={<HomePage />}></Route>

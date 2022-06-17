@@ -1,0 +1,27 @@
+.navbar-container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.logo-icon-text {
+  padding-left: 5%;
+  padding-top: 2%;
+
+  font-size: 52px;
+  font-weight: 600;
+  font-family: "Abril Fatface", "cursive";
+}
+
+.nav-links {
+  padding-right: 5%;
+  padding-top: 2%;
+}
+
+.link {
+  margin-left: 20px;
+  font-size: 40px;
+  text-decoration: none;
+  color: #1a1818;
+  font-weight: 600;
+}
