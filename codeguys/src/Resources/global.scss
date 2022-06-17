@@ -6,12 +6,28 @@
   justify-content: space-between;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
+.justify-right {
+  justify-content: flex-end;
+}
+
 //Margins
 
 .mr-1 {
-  margin-right: 10%;
+  margin-right: 5%;
 }
 
 .ml-1 {
-  margin-left: 10%;
+  margin-left: 5%;
+}
+
+.mt-1 {
+  margin-top: 5%;
+}
+
+.mb-1 {
+  margin-bottom: 5%;
 }
