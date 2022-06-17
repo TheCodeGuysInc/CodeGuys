@@ -2,9 +2,6 @@ import React from "react";
 import "../Resources/global.scss";
 import "./Home.scss";
 
-import MapPicture from "../images/2414.jpg";
-import TestPicture from "../images/test.jpg";
-
 export default function Home() {
   return (
     <>

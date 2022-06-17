@@ -12,7 +12,6 @@ import {
 
 import About from "./Pages/About";
 import HomePage from "./Pages/Home";
-import MatrixBackground from "./Components/MatrixBackground";
 
 function App() {
   return (
