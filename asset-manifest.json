@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CodeGuys/static/css/main.60f2bca1.css",
+    "main.css": "/CodeGuys/static/css/main.52888f2c.css",
     "main.js": "/CodeGuys/static/js/main.b20bf152.js",
     "static/js/787.5744fed0.chunk.js": "/CodeGuys/static/js/787.5744fed0.chunk.js",
-    "static/media/world.jpg": "/CodeGuys/static/media/world.de5659898d3bfc5eb8ea.jpg",
+    "static/media/main.jpg": "/CodeGuys/static/media/main.ee19f99a32b77efb51a6.jpg",
     "static/media/teamApp.png": "/CodeGuys/static/media/teamApp.73ab975ed7d1242e587c.png",
     "static/media/chatApp.png": "/CodeGuys/static/media/chatApp.23a98474d0ef8f77f56e.png",
     "static/media/WorkExample6.jpg": "/CodeGuys/static/media/WorkExample6.7721242885e5c2b2213a.jpg",
     "static/media/logo.svg": "/CodeGuys/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CodeGuys/index.html",
-    "main.60f2bca1.css.map": "/CodeGuys/static/css/main.60f2bca1.css.map",
+    "main.52888f2c.css.map": "/CodeGuys/static/css/main.52888f2c.css.map",
     "main.b20bf152.js.map": "/CodeGuys/static/js/main.b20bf152.js.map",
     "787.5744fed0.chunk.js.map": "/CodeGuys/static/js/787.5744fed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60f2bca1.css",
+    "static/css/main.52888f2c.css",
     "static/js/main.b20bf152.js"
   ]
 }
