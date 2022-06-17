@@ -19,7 +19,6 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <div className="header-container">
-          <MatrixBackground />
           <div className="code-guys-text">
             <p>Code Guys Inc</p>
           </div>
@@ -27,18 +26,18 @@ function App() {
           <div className="nav-links">
             <div>
               <Link className="link" to="/CodeGuys">
-                Home
+                home
               </Link>
             </div>
 
             <div>
               <Link className="link" to="/about">
-                About
+                about
               </Link>
             </div>
             <div>
               <Link className="link" to="/projects">
-                Projects
+                projects
               </Link>
             </div>
           </div>
